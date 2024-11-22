@@ -1,0 +1,14 @@
+/home/veepanshu_kasana/Documents/Programming/C# & .Net/Number_Guesser/bin/Debug/net8.0/Number_Guesser
+/home/veepanshu_kasana/Documents/Programming/C# & .Net/Number_Guesser/bin/Debug/net8.0/Number_Guesser.deps.json
+/home/veepanshu_kasana/Documents/Programming/C# & .Net/Number_Guesser/bin/Debug/net8.0/Number_Guesser.runtimeconfig.json
+/home/veepanshu_kasana/Documents/Programming/C# & .Net/Number_Guesser/bin/Debug/net8.0/Number_Guesser.dll
+/home/veepanshu_kasana/Documents/Programming/C# & .Net/Number_Guesser/bin/Debug/net8.0/Number_Guesser.pdb
+/home/veepanshu_kasana/Documents/Programming/C# & .Net/Number_Guesser/obj/Debug/net8.0/Number_Guesser.GeneratedMSBuildEditorConfig.editorconfig
+/home/veepanshu_kasana/Documents/Programming/C# & .Net/Number_Guesser/obj/Debug/net8.0/Number_Guesser.AssemblyInfoInputs.cache
+/home/veepanshu_kasana/Documents/Programming/C# & .Net/Number_Guesser/obj/Debug/net8.0/Number_Guesser.AssemblyInfo.cs
+/home/veepanshu_kasana/Documents/Programming/C# & .Net/Number_Guesser/obj/Debug/net8.0/Number_Guesser.csproj.CoreCompileInputs.cache
+/home/veepanshu_kasana/Documents/Programming/C# & .Net/Number_Guesser/obj/Debug/net8.0/Number_Guesser.dll
+/home/veepanshu_kasana/Documents/Programming/C# & .Net/Number_Guesser/obj/Debug/net8.0/refint/Number_Guesser.dll
+/home/veepanshu_kasana/Documents/Programming/C# & .Net/Number_Guesser/obj/Debug/net8.0/Number_Guesser.pdb
+/home/veepanshu_kasana/Documents/Programming/C# & .Net/Number_Guesser/obj/Debug/net8.0/Number_Guesser.genruntimeconfig.cache
+/home/veepanshu_kasana/Documents/Programming/C# & .Net/Number_Guesser/obj/Debug/net8.0/ref/Number_Guesser.dll
